@@ -8,7 +8,7 @@
 
 ### HTML/CSS Notes
 
-### JavaScript Notes
+### [JavaScript Notes](./TOPICS/JAVASCRIPT_NOTES)
 
 ### [Unix Notes](./TOPICS/UNIX/)
 
