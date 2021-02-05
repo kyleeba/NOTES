@@ -25,4 +25,9 @@
         inputString.split("") was an array
       - Our argument for join() is "" because the default for join
         concatenates characters with a ',' in between characters.
-}
+
+* [repeatString](./EXERCISES/repeatString)
+  - In this exercise, we repeated a string
+  - We had to mitigate against negative inputs, and throw an error if it was
+    negative. 
+  
