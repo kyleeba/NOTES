@@ -16,8 +16,8 @@
 - [Git](./TOPICS/VERSION_CONTROL/GIT)
 -  Github
 
-### Tools
-- Vim
+### [Tools](./TOPICS/TOOLS/)
+- [Vim](./TOPICS/TOOLS/VIM)
 - VSCode
 
 ## Projects
