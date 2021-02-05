@@ -13,12 +13,12 @@
 ### [Unix Notes](./TOPICS/UNIX/)
 
 ### [Version Control](./TOPICS/VERSION_CONTROL)
-#### [Git](./TOPICS/VERSION_CONTROL/GIT)
-#### Github
+- [Git](./TOPICS/VERSION_CONTROL/GIT)
+-  Github
 
 ### Tools
-#### Vim
-#### VSCode
+- Vim
+- VSCode
 
 ## Projects
 
