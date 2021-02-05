@@ -5,3 +5,4 @@
 * [repeatString](./repeatString)
 * [reverseString](./reverseString)
 * [removeFromArray](./removeFromArray)
+* [sumAll](./sumAll)

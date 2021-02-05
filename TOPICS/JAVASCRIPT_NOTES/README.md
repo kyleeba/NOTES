@@ -30,4 +30,5 @@
   - In this exercise, we repeated a string
   - We had to mitigate against negative inputs, and throw an error if it was
     negative. 
-  
+
+* [sumAll](./EXERCISES/sumAll)
