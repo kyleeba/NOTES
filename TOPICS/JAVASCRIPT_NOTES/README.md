@@ -32,3 +32,6 @@
     negative. 
 
 * [sumAll](./EXERCISES/sumAll)
+  - --> LEARNED
+
+* [leapYears](./EXERCISES/leapYears)
