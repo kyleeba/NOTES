@@ -40,8 +40,18 @@
       - That both types are numbers
       - If either number is negative 
       - If the numbers are equal
-  - We then utilized a for-loop that would increment our return value (sum=0)
+  - Then I utilized a for-loop that would increment our return value (sum=0)
     by 1 and then add it to the smallest parameter (minParameter =
     Math.min(argumetns[0],arguments[1]) to get our return value.
 
 * [leapYears](./EXERCISES/leapYears)
+  - In this exercise, I nested three if-statements, each testing the input
+    value to check if it complies with the arithmetic rules of leap year
+    calculation.
+      - Though, I used nested if-statements, I also could have used
+        comparison operators to test the input year in one line of code:
+
+      ```
+      return inputYear % 4 === 0 && (inputYear%100 !== 0 || year % 400 ==0)
+      ```
+      
