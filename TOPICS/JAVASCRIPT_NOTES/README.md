@@ -32,6 +32,16 @@
     negative. 
 
 * [sumAll](./EXERCISES/sumAll)
-  - --> LEARNED
+  - In this exercise, I implemented a function that takes 2 integers and
+  returns the sum of every number between (and including) them. 
+    - Before writing the code, I considered the following edge cases:
+      - The arguments keyword
+      - Checking against ---> arguments.length !=2
+      - That both types are numbers
+      - If either number is negative 
+      - If the numbers are equal
+  - We then utilized a for-loop that would increment our return value (sum=0)
+    by 1 and then add it to the smallest parameter (minParameter =
+    Math.min(argumetns[0],arguments[1]) to get our return value.
 
 * [leapYears](./EXERCISES/leapYears)
