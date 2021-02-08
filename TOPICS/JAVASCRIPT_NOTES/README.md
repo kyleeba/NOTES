@@ -54,4 +54,11 @@
       ```
       return inputYear % 4 === 0 && (inputYear%100 !== 0 || year % 400 ==0)
       ```
-      
+* [tempConversion](./EXERCISES/tempConversion)
+  - With this exercise, I successfully converted celsius to fahrenheit and
+    vice versa using the formulae found on Google.
+  - I also used the Math.round function to ensure that the return statement
+    would be rounded to only one decimal place, like so:
+    ```
+    return (Math.round(f*10)/10);
+    ```
